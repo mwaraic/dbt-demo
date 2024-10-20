@@ -1,0 +1,17 @@
+
+version: 2
+
+models:
+  - name: cat_by_weight
+    description: "Category of books by weight"
+    columns:
+        - name: category
+          description: "Categories of book"
+          data_tests:
+            - unique
+            - not_null
+
+        - name: total_weight
+          description: "Total weight of category"
+          data_tests:
+            - not_null

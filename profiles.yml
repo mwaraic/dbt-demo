@@ -1,0 +1,11 @@
+dbt_demo:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: "127.0.0.1"
+      user: "myuser"
+      password: "mypassword"
+      port: 5432
+      dbname: "postgres" # or database instead of dbname
+      schema: "postgres"

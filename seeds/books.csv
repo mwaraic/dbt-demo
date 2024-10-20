@@ -1,0 +1,184 @@
+id,title,year,language,weight,category
+1,Rigor Mortis,1975,Swedish,28,children
+2,Eigen Eigen,1976,German,1,philosophy
+3,Math Is Fun,2018,English,49,mystery
+4,Yon Juu Hachi,1982,Swahili,6,science
+5,Ou Est Ce Canada,1998,French,48,mystery
+6,Flibber Gibber,2008,Danish,35,travel
+7,Humor In Sql,1992,English,88,children
+8,Tropical Blacksburg,1975,English,55,children
+9,Been There Done That,1977,English,86,history
+10,Anfakh E Qudsia,1979,Albanian,66,children
+11,Are My Feet Too Big,1998,English,53,horror
+12,Relational Algebra,1995,Italian,15,romance
+13,Where Are My Socks,2017,English,68,romance
+14,Getting Into Snork U,1997,Norwegian,56,philosophy
+15,A Misconception Removed,1977,English,22,children
+16,Majmooa E Ishtiharat 3 Vol Set,1975,Albanian,24,horror
+17,Aubergines,2009,German,99,drama
+18,Tensor Calculus Made Easy,2021,Spanish,37,mystery
+19,How To Be Free From Sin,1978,English,84,horror
+20,The Vampires Among Us,2022,English,75,philosophy
+21,The Earth Is Not Enough,2009,English,61,children
+22,Tazhkeratush Shahadatain,1991,Indonesian,67,religion
+23,Fountain Of Christianity,2017,English,84,history
+24,Richmond Underground,1972,German,27,history
+25,The Heavenly Sign,2006,English,48,science
+26,Jesus In India,1991,Estonian,5,travel
+27,An Introduction To The Hidden Treasures Of Islam,2023,English,35,mystery
+28,The Will,2005,English,82,science
+29,Darmstadt,1978,Swedish,97,horror
+30,Voting For Dummies,2008,English,98,mystery
+31,Paigham E Sulaah,2015,Tagalog,4,mystery
+32,Oberon,1994,Slovak,93,religion
+33,Zaroorat Ul Imam,1993,Romanian,1,drama
+34,Tauzihe Maram,1985,Albanian,81,romance
+35,Durr E Sameen,1982,Dutch,10,drama
+36,A Conclusive Argument In Favour Of Islam,2002,English,78,mystery
+37,Rabbits Are Nice,1975,Catalan,68,guide
+38,Sirajuddin A Isaatmi Kei Char Swalon Ka Jawab,1979,Somali,59,drama
+39,The Fickle Pickle,1981,English,45,drama
+40,Learn How To Vote,1993,English,3,religion
+41,Lecture Ludhiana English,1980,English,77,science
+42,Nothing But Steak,1996,English,55,history
+43,Where Art Thou Bertha,1978,English,40,children
+44,Databases Arent,2017,Indonesian,42,mystery
+45,The Honour Of Prophets,1977,English,22,mystery
+46,Strike Once Strike Twice,1971,Afrikaans,3,guide
+47,Brats Like Us,1983,Croatian,20,science
+48,Oui Oui Non,1997,French,41,humor
+49,The Philosophy Of The Teachings Of Islam,2006,English,23,romance
+50,Quarks And Other Matter,2023,English,75,guide
+51,The Heavenly Decree,1994,English,32,drama
+52,Durre Sameen Persian With Urdu Translation 2 Volumes,1975,English,70,science
+53,A Message Of Peace,2023,English,15,humor
+54,Databases Made Real Hard,2007,Portuguese,36,science
+55,Cats Are Not Dogs,1979,Catalan,67,travel
+56,Napoleans Revenge,2002,Norwegian,43,drama
+57,Sql Kills,2005,Finnish,14,science
+58,Fiqh Ul Maseeh,2003,Somali,30,romance
+59,Defence Against The Plague,2013,English,43,religion
+60,Will Snoopy Find Lucy,1977,English,39,children
+61,Les Gens Miserable,2006,French,24,history
+62,The Need For The Imam,2006,English,31,drama
+63,Ek Ghalti Ka Izala,2022,Swahili,89,mystery
+64,Itmamul Hujja And Mawahibbur Rehman Urdu,2001,Indonesian,90,drama
+65,Four Questions By Mr Sirajuddin A Christian Answered,2010,English,51,philosophy
+66,Lynchburgs Great,2014,English,57,guide
+67,Please Beam Me Up,2015,English,18,children
+68,La Petite Chou,1996,French,89,religion
+69,Tauruf Kutub Hazrat Masih Mau Ud,2007,Indonesian,22,religion
+70,Is Math Is Fun,1971,English,33,history
+71,Hamamatul Bushra,1993,Indonesian,10,religion
+72,I Dont Think So,1979,English,84,children
+73,Not That London,2004,English,10,guide
+74,Lecture Sialkot,1983,Finnish,85,religion
+75,Tchuss,2018,Vietnamese,51,religion
+76,The Conclusive Argument,1970,English,7,romance
+77,Alpha Centauri,2016,Romanian,74,mystery
+78,The Miracle Of Ahmad,1970,English,37,religion
+79,Maktoobat Ahmad Vol I Ii,2007,Estonian,26,horror
+80,Curiouser And Curiouser,2019,English,62,mystery
+81,Tazkirah Urdu,1987,Indonesian,9,travel
+82,Fateh Islam,1979,English,30,philosophy
+83,Under Your Bed,1998,German,41,children
+84,Sirrul Khilafa,1997,Somali,18,religion
+85,Quantum Databases,2024,Portuguese,90,children
+86,Montreal Pour Les Idiots,1993,French,42,science
+87,Acrimony Made Simple,1989,Catalan,89,children
+88,Okay Why Not,2000,Tagalog,20,religion
+89,Live In Charlottesville,1997,Italian,42,travel
+90,Essence Of Islam Vol 5,1983,English,79,humor
+91,Lecture Sialkot English,2004,English,26,drama
+92,The Stars Are Not Enough,1980,English,69,history
+93,Chashma E Masihi,2022,Albanian,98,children
+94,Barahin E Ahmadiyya Part Iii,2009,Somali,70,science
+95,Tafseer Hazrat Masih Mau Ud As 8 Vol Set,2000,Estonian,61,philosophy
+96,Essence Of Islam Vol 4,2018,English,91,religion
+97,A Gift For An Nadwah,1971,Welsh,24,mystery
+98,Barahin E Ahmadiyya Part V,2023,Indonesian,16,romance
+99,Government Angrezi Aur Jihad,1997,Croatian,19,philosophy
+100,The Truth Revealed,1974,English,11,travel
+101,The Green Anouncement,2016,English,32,history
+102,Pigs Are Nice,1991,Romanian,58,history
+103,A Hidden Truth,1978,Welsh,13,guide
+104,The Criterion For Religion,1995,English,39,children
+105,Tampopo Oishii,1992,Swahili,32,horror
+106,Food For Dummies,2013,English,54,travel
+107,Capricias Conundrum,1993,Portuguese,51,children
+108,The Gift For The Queen,1973,English,88,humor
+109,Yakuza Kekkon Shita,2012,Swahili,2,travel
+110,Tsukimono To Tsukemono,1991,Lithuanian,89,romance
+111,Essence Of Islam Vol 3,1995,English,72,drama
+112,Tomenatte Kudasai,2004,Finnish,11,religion
+113,Three Questions By A Christian And Their Answers,2014,English,58,guide
+114,Ruhani Khazain Vol 1 23,2011,Slovenian,60,horror
+115,Essence Of Islam Vol 2,2012,English,53,philosophy
+116,Naseem E Dawat,1988,Afrikaans,91,science
+117,Ismat E Anbiyaa,1990,Somali,54,horror
+118,Wheres Canada,2009,English,66,science
+119,Nippon No Joodan,1990,Slovenian,95,guide
+120,Malfuzat Part Ii English,1994,Romanian,70,children
+121,Plato Rocks,1994,Slovak,50,guide
+122,Barahin E Ahmadiyya Parts I Ii,2003,Somali,17,religion
+123,Gigabytes Still To Go,1979,English,66,horror
+124,Mahmuds Aameen,2016,Somali,4,mystery
+125,Shahadatul Quran,2011,Somali,64,children
+126,Cuisine Anglaise,1995,French,16,horror
+127,Al Qaseedah English,2020,Somali,38,travel
+128,Yum Yum English Cooking,1971,English,100,romance
+129,Pluto Collides With Mars,2013,English,58,drama
+130,Noahs Ark,2006,Latvian,29,religion
+131,Essence Of Islam Vol 1,1976,English,27,history
+132,Kashti E Nuh,1972,Albanian,57,horror
+133,Haqeeqat Ul Mahdi,1998,Somali,61,mystery
+134,The Truth Unveiled,1993,English,76,mystery
+135,The Advent Of The Promised Messiah,1982,English,98,humor
+136,Victory Of Islam,1974,English,10,guide
+137,The British Government And Jihad,2023,English,1,drama
+138,Al Istfta,2000,German,97,drama
+139,Ringo To Nashi,2021,Tagalog,99,horror
+140,Tadhkirah English,1977,Albanian,8,children
+141,Haqiqatul Wahi English,2007,Somali,100,history
+142,Akachan Furu,1980,Swahili,88,drama
+143,The True Nature Of The Mahdi,1989,English,73,travel
+144,Transmorgifacation,1983,English,67,drama
+145,Malfoozat 5 Vol Set,1988,Hungarian,34,romance
+146,Tande Mou Nai,1974,Portuguese,60,science
+147,Im Sorry But No,1999,English,81,history
+148,Recipes For Humans,1998,Portuguese,46,science
+149,Islami Asool Kee Philosophy,1998,Estonian,7,horror
+150,Williamsburg Hot Spots,1997,Afrikaans,14,humor
+151,Hazrat Mirza Ghulam Ahmad Qadian As Apni Tehreeron Kee Roo Se,1995,Estonian,49,mystery
+152,Play Me A Song,2006,Tagalog,12,children
+153,Lecture Lahore English,1984,French,89,history
+154,Chats Ne Sont Pas Chiens,1976,French,4,history
+155,Divine Manifestations,1995,Italian,8,history
+156,Qadian Kay Arya Aur Hum,2014,Somali,89,religion
+157,Db2 Made Simple,2022,Portuguese,46,guide
+158,Avarice Is Good,2015,English,62,religion
+159,Barahin E Ahmadiyya Part Iv,2010,Indonesian,44,children
+160,Barkat Ud Dua,2023,Indonesian,32,history
+161,The Wiley Snark,2023,English,61,guide
+162,Radiator Barbecuing,1975,Romanian,83,drama
+163,Legacy Software Made Fun,2010,English,71,romance
+164,Press The Red Button,1976,English,67,romance
+165,Rats Like Us,2014,Estonian,63,mystery
+166,Star Of The Empress,2022,English,85,science
+167,Dogs Are Not Cats,1986,Catalan,97,drama
+168,Base De Donne,2011,French,97,romance
+169,Vegetables Are Good,1980,Norwegian,8,humor
+170,Elucidation Of Objectives,2014,English,44,religion
+171,Suzy Does Yorktown,1984,Polish,3,philosophy
+172,Parthenon,1975,English,44,history
+173,Lecture Ludhiana Urdu,1990,Romanian,3,drama
+174,Masih Hindustan Main,1991,Indonesian,54,children
+175,Db2 Db3 And Beyond,1976,Danish,83,travel
+176,Al Qaseedah Urdu,1994,Somali,70,drama
+177,Montreal Est Dans Quebec,1978,French,28,children
+178,Bobbie Sue Ellen,1994,Spanish,46,guide
+179,Hamari Taleem,1989,Somali,40,humor
+180,Meine Kleine Katze,1979,German,42,horror
+181,Je Ne Me Souvien Pas,1988,French,92,humor
+182,Proceedings Of The Prayer Meeting,2013,English,80,horror
+183,A Review Of The Debate Between Batalavi And Chakrhalavi,2021,English,37,horror
