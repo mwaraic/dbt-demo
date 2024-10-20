@@ -9,13 +9,10 @@
 
 {{ config(materialized='table') }}
 
-
-select category, sum(weight) as total_weight
-from {{ ref('books') }} 
-group by category
-
-/*
-    Uncomment the line below to remove records with null `id` values
-*/
-
--- where id is not null
+WITH cat_by_weight AS
+(
+   SELECT * FROM {{ ref('books') }}
+)
+SELECT category, sum(weight) AS total_weight
+FROM cat_by_weight
+GROUP BY category
