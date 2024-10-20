@@ -13,13 +13,13 @@ setenv VIRTUAL_ENV "/Users/mwaraich/dbt-demo/dbt-env"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"
+setenv VIRTUAL_ENV_PROMPT "dbt-env"
 
 
 set _OLD_VIRTUAL_PROMPT="$prompt"
 
 if (! "$?VIRTUAL_ENV_DISABLE_PROMPT") then
     set prompt = "(dbt-env) $prompt"
-    setenv VIRTUAL_ENV_PROMPT "(dbt-env) "
 endif
 
 alias pydoc python -m pydoc

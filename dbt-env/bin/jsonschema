@@ -1,4 +1,4 @@
-#!/Users/mwaraich/dbt-demo/dbt-env/bin/python3
+#!/Users/mwaraich/dbt-demo/dbt-env/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys

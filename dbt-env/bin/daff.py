@@ -1,4 +1,4 @@
-#!/Users/mwaraich/dbt-demo/dbt-env/bin/python3
+#!/Users/mwaraich/dbt-demo/dbt-env/bin/python3.13
 # -*- coding: utf-8 -*-
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals, print_function
