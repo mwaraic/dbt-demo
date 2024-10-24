@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: yrb
+    database: postgres
+    schema: yrb_raw
+    tables:
+    - name: books

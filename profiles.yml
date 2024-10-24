@@ -8,4 +8,4 @@ dbt_demo:
       password: "mypassword"
       port: 5432
       dbname: "postgres" # or database instead of dbname
-      schema: "postgres"
+      schema: "yrb"

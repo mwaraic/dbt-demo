@@ -11,7 +11,7 @@
 
 WITH cat_by_weight AS
 (
-   SELECT * FROM {{ ref('books') }}
+   SELECT * FROM {{ ref('stg_yrb__books') }}
 )
 SELECT category, sum(weight) AS total_weight
 FROM cat_by_weight
